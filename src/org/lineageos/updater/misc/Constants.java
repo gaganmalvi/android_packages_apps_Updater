@@ -22,7 +22,7 @@ public final class Constants {
 
     public static final String SF_PROJECT_NAME = "malvibuilds";
     // version will be set according to the update version in the mirrors function
-    public static final String SF_PROJECT_ROOT_PATH_NAME = "ArrowOS";
+    public static final String SF_PROJECT_ROOT_PATH_NAME = "ArrowOS-";
 
     public static final String AB_PAYLOAD_BIN_PATH = "payload.bin";
     public static final String AB_PAYLOAD_PROPERTIES_PATH = "payload_properties.txt";
